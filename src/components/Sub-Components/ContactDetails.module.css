@@ -1,0 +1,55 @@
+.contact-details__wrapper {
+
+	padding: 1.5rem;
+  }
+  
+  .contact-info-section {
+	
+	background-color: #000; /* Fondo oscuro para que combine con el diseño */
+	padding: 1.5rem;
+	border-radius: 8px;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	color: #fff; /* Texto en blanco */
+  }
+  
+  .contact-details__lists {
+	list-style: none;
+	padding: 0;
+	margin: 0 0 2rem;
+  }
+  
+  .contact-details__lists li {
+	margin-bottom: 1.5rem;
+  }
+  
+  .contact-link {
+	display: flex;
+	align-items: center;
+	text-decoration: none;
+	color: #fff;
+	font-size: 1rem;
+	font-weight: 500;
+	transition: color 0.3s ease;
+  }
+  
+  .contact-link:hover {
+	color: #f97316; /* Naranja al pasar el cursor */
+  }
+  
+  .instagram-section,
+  .trial-class-section {
+	margin-top: 2rem;
+  }
+  
+  .instagram-section h4,
+  .trial-class-section h4 {
+	font-size: 1.25rem;
+	margin-bottom: 0.5rem;
+  }
+  
+  .trial-class-section p {
+	margin-bottom: 0.5rem;
+	font-size: 1rem;
+	font-weight: 400;
+  }
+  
