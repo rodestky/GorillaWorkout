@@ -1,0 +1,14 @@
+{
+    "short_name": "GorillaWorkout",
+    "name": "Gorilla Workout App",
+    "icons": [
+      {
+        "src": "/GorillaWorkout/favicon.ico",
+        "type": "image/x-icon",
+        "sizes": "48x48"
+      }
+    ],
+    "start_url": "/GorillaWorkout/",
+    "display": "standalone"
+  }
+  
