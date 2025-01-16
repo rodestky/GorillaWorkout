@@ -51,7 +51,7 @@ export const services = [
 	},
 	{
 		id: 6,
-		title: ' Masaje Descontracturante',
+		title: ' Quiropráctico',
 		badgetext: 'Convenio para Alumnos',
 		backgroundcolor: '#D6E8DB',
 		textcolor: 'black',
